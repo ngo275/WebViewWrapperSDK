@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "WebAuthnSwift",
+        "repositoryURL": "https://github.com/ngo275/webauthn-swift",
+        "state": {
+          "branch": "main",
+          "revision": "55d19c6873b00ac4adcb8b2fdf607433695837e2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
